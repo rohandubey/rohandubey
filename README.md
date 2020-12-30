@@ -18,6 +18,6 @@
 <br />
 <br />
 
-Cheers,
-Rohan Dubey
+Cheers,  
+Rohan Dubey  
 [rohandubey.github.io](https://rohandubey.github.io/)
