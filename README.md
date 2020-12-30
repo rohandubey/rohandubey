@@ -17,6 +17,12 @@
 </a>
 <br />
 <br />
+I am a life-long learner, and I am always very focused on maximising my learning experiences. I am a tech freak who stays updated with recent technological advancement and love to discover new tech in the industry. I love to dig deep down into a progran and see how all the pieces fit together in my free time. I am a curious Learner and also academically oriented to maximize my learnings.    
+
+Technologies worked on:  
+- Python, C/C++, SQL, Matlab, HTML/CSS, Shell, Julia  
+- GCP, Kubernetes, Docker  
+- Flask, YOLO, CUDA, OpenCV 
 
 Cheers,  
 Rohan Dubey  
