@@ -27,8 +27,11 @@ Technologies worked on:
 Cheers,  
 Rohan Dubey  
 [rohandubey.github.io](https://rohandubey.github.io/) 
+<details>
+  <summary>Some other facts about me!</summary>
+  [![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohandubey&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohandubey&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohandubey&repo=Pulse-rate-monitoring-system&theme=dark)](https://github.com/rohandubey/Pulse-rate-monitoring-system)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohandubey&repo=Face-Mask-Detector&theme=dark)](https://github.com/rohandubey/Face-Mask-Detector) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohandubey&repo=Pulse-rate-monitoring-system&theme=dark)](https://github.com/rohandubey/Pulse-rate-monitoring-system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohandubey&repo=Face-Mask-Detector&theme=dark)](https://github.com/rohandubey/Face-Mask-Detector) 
+</details>
