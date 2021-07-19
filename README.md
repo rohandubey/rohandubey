@@ -1,3 +1,4 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>  
 # Hello World, I'm Rohan.👋
 
 <a href="https://github.com/rohandubey/">
@@ -26,4 +27,9 @@ Technologies worked on:
 
 Cheers,  
 Rohan Dubey  
-[rohandubey.github.io](https://rohandubey.github.io/)
+[rohandubey.github.io](https://rohandubey.github.io/) 
+
+[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohandubey&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohandubey&repo=Pulse-rate-monitoring-system&theme=dark)](https://github.com/rohandubey/Pulse-rate-monitoring-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohandubey&repo=Face-Mask-Detector&theme=dark)](https://github.com/rohandubey/Face-Mask-Detector) 
